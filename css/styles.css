@@ -81,17 +81,13 @@ h3{
 
 }
 
-.effective-solutions-section{
-    flex-direction: column;        
-    justify-content: center;       
+.effective-solutions-section{    
     text-align: center;            
 }
 
 .order-service-button{
     background-color: #4D5AE5;
-    color: #FFFFFF;
-    width: 169px;
-    
+    color: #FFFFFF;    
 }
 
 .our-team{
