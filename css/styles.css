@@ -9,18 +9,11 @@ body{
 
 header{
    border: 1px;
-
 }
 
 p{
     font-weight: 400;
     font-size: 16px;
-
-
-}
-
-.main-nav{
-
 }
 
 .logo{
@@ -70,12 +63,27 @@ p{
     color: #404bbf;
 }
 
-.skills{
-
-
+.main-header{
+    font-size: 56px;
+    line-height: 1.07;
+    text-align: center;
+    letter-spacing: 0.02em;
 }
 
+.order-service-button{
+    font-weight: 500;
+    background-color: #4D5AE5;
+    color: #FFFFFF;   
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+}
 
+.order-service-button:hover,
+.order-service-button:focus{
+    background-color: #404BBF;
+    cursor: pointer;
+}
 
 a{
     color: inherit;
@@ -94,13 +102,6 @@ ul{
 
 }
 
-h1{
-       
-    color: #FFFFFF;
-    font-weight: 700;
-    font-size: 56px;
-}
-
 h3{
     font-weight: 500;
     font-size: 20px;
@@ -108,14 +109,8 @@ h3{
 
 }
 
-.effective-solutions-section{    
-    text-align: center;            
-}
 
-.order-service-button{
-    background-color: #4D5AE5;
-    color: #FFFFFF;    
-}
+
 
 .our-team{
     background-color: #F4F4FD;
