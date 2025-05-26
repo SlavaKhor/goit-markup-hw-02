@@ -39,7 +39,6 @@ p{
 
 .nav-button{
     font-size: 16px;
-    line-height: 1.5px;
     color: #2e2f42;
     letter-spacing: 0.02em;
 
@@ -53,7 +52,6 @@ p{
 .nav-menu{
     font-weight: 500;
     letter-spacing: 2%;
-    line-height: 1.5;
 }
 
 .contacts{
@@ -100,7 +98,6 @@ h1{
        
     color: #FFFFFF;
     font-weight: 700;
-    line-height: 60px;
     font-size: 56px;
 }
 
