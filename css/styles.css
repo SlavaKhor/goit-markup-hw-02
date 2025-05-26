@@ -14,6 +14,7 @@ header{
 p{
     font-weight: 400;
     font-size: 16px;
+    letter-spacing: 0.02em
 }
 
 .logo{
@@ -88,6 +89,11 @@ p{
 }
 
 .section-2-header{
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+}
+
+.skill-item{
     line-height: 1.2;
     letter-spacing: 0.02em;
 }
