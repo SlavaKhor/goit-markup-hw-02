@@ -54,6 +54,7 @@ p{
     font-style: normal;    
 }
 
+.potfolio-item-par,
 .contact{
     letter-spacing: 0.02em;
     font-size: 16px;
@@ -89,6 +90,7 @@ p{
     cursor: pointer;
 }
 
+.portfolio-item-header,
 .skills-section-header{
     font-weight: 500;
     font-size: 20px;
