@@ -99,6 +99,20 @@ p{
     letter-spacing: 0.02em;
 }
 
+.our-team-section-header{
+    font-size: 36px;
+    line-height: 1.11;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: #2e2f42;
+}
+
+.team-member-card{
+    line-height: 1.2;
+    letter-spacing: 0.02em
+
+}
+
 .approach{
     letter-spacing: 0.02em;
 }
