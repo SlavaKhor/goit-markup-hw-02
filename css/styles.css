@@ -92,6 +92,13 @@ p{
 .section-2-header{
     line-height: 1.2;
     letter-spacing: 0.02em;
+    font-weight: 500;
+    font-size: 20px;
+    color: #2e2f42;
+}
+
+.par{
+    color: #434455;
 }
 
 .skill-item{
