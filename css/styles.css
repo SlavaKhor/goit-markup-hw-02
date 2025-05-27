@@ -119,7 +119,18 @@ p{
     letter-spacing: 0.02em
 
 }
-
+.team-member-card-header{
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+.our-team-section-par{
+    font-size: 16px;
+    line-height: 1.5;
+    color: #434455;
+}
 .approach{
     letter-spacing: 0.02em;
 }
@@ -132,7 +143,6 @@ a{
 
 h2{
     text-align: center;
-
 }
 
 ul{
@@ -149,10 +159,6 @@ ul{
 .our-team li{
     text-align: center;
     background-color: #FFFFFF;
-    
-}
-
-.our-portfolio ul{
     
 }
 
